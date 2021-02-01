@@ -1,16 +1,9 @@
-Welcome to the Klipper project!
+# Klipper config for AnyCubic I3 Mega Ultrabase
+This repo is forked off from the Klipper main repo to be able to trace all changes made to the standard config for the Anycubic i3 Mega Ultrabase With Trigorilla Board 1.0, standard drivers, etc I bought in late 2018.
 
-[![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
+I adapt it to my own needs for my own printer, with the only change that I have installed an BLTouch clone. Your setup may very and apply anything you find here with caution and at your own risk.
 
-https://www.klipper3d.org/
+Ideally this will result result my Marlin 1.9 version I did here with the same adaptions: https://github.com/straach/Marlin-AI3M-BLTouch
 
-Klipper is a 3d-Printer firmware. It combines the power of a general
-purpose computer with one or more micro-controllers. See the
-[features document](https://www.klipper3d.org/Features.html) for more
-information on why you should use Klipper.
+The probe-offsets are based on the values I determined in the above repository.
 
-To begin using Klipper start by
-[installing](https://www.klipper3d.org/Installation.html) it.
-
-Klipper is Free Software. See the [license](COPYING) or read the
-[documentation](https://www.klipper3d.org/Overview.html).
